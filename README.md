@@ -12,3 +12,4 @@ Here are some python projects that I have made:
 - [Sonic bird](https://github.com/XanderG2/sonic-bird)
 - [Battleships](https://github.com/XanderG2/battleships)
 - [Semi-hourly Screaming](https://github.com/XanderG2/Semi-hourly-Screaming)
+- [Advent of code 2022](https://github.com/XanderG2/advent-of-code-2022)
